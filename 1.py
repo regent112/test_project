@@ -3,3 +3,5 @@ def ololo():
 
 def test2():
 	print 'test5'
+def f3():
+	pass
